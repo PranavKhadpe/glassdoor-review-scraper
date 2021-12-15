@@ -11,10 +11,12 @@ SCHEMA = [
     'rating_overall',
     'rating_balance',
     'rating_culture',
+    'rating_diversity',
     'rating_career',
     'rating_comp',
     'rating_mgmt',
     'recommends',
     'positive_outlook',
-    'approves_of_CEO'
+    'approves_of_CEO',
+    'featured_review'
 ]
